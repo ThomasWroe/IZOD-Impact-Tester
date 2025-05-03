@@ -45,7 +45,7 @@ Repeat steps 1–5 for each additional sample.
 The potential energy (PE) of the hammer at an angle \(\theta\) is:
 
 \[
-PE = mgL(1 - \cos\theta)
+Windage Energy= mgL(1 - \cos\theta)
 \]
 
 where:
@@ -59,7 +59,7 @@ where:
 The impact energy absorbed by the sample is:
 
 \[
-E_{\text{impact}} = mgL(\cos\theta_{\text{after}} - \cos\theta_{\text{before}})
+E_{\text{impact}} = mgL(\cos\theta_{\text{after}} - \cos\theta_{\text{before}}) - Windage Energy
 \]
 
 where:
